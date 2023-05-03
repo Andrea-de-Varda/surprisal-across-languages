@@ -3,7 +3,7 @@ This repository contains the code to compute surprisal values from XGLM model. W
 
 ### Useful resources
 
-- :eyes: *Eye-tracking data*:
+- :eyes: **Eye-tracking data**:
   - MECO-L1 corpus ([paper](https://link.springer.com/article/10.3758/s13428-021-01772-6)|[data](https://osf.io/3527a/)).
-- :computer: *Computational models*
+- :computer: **Computational models**
   - XGLM model family ([paper](https://aclanthology.org/2022.emnlp-main.616/)|[model](https://huggingface.co/facebook/xglm-564M)) 
